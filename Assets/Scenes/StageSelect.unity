@@ -1024,10 +1024,10 @@ MonoBehaviour:
   - {fileID: 531530916}
   mapNames:
   - DesertRun
-  - CountrySide
+  - Around A World
   mapScenes:
   - DesertRun
-  - CountrySideRun
+  - Around A World
   stageCamera: {fileID: 171770621}
   cameraPositions:
   - {x: -0.38, y: 5.52, z: -8.71}
