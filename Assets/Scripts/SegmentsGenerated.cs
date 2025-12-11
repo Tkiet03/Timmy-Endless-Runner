@@ -23,7 +23,7 @@ public class SegmentsGenerated : MonoBehaviour
                 segmentNum = Random.Range(0, 3);
                 Instantiate(segment[segmentNum], new Vector3(0, 0, zPos), Quaternion.identity);
                 zPos += 50; // Tăng khoảng cách
-                yield return new WaitForSeconds(3); // Chờ 3 giây
+                yield return new WaitForSeconds(1); // Chờ 3 giây
                 creatingSegment = false;
             }
             yield return null; // Đợi frame tiếp theo
