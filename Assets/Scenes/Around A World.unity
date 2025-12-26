@@ -1562,6 +1562,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3373117687967352123, guid: 027d2067a12b0504a938bcae86c6f3d6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.88
+      objectReference: {fileID: 0}
     - target: {fileID: 3660914229770013546, guid: 027d2067a12b0504a938bcae86c6f3d6, type: 3}
       propertyPath: m_Name
       value: 'Segment '
@@ -1606,6 +1610,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8917908660312148968, guid: 027d2067a12b0504a938bcae86c6f3d6, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 4.06
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1619,6 +1627,22 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 615646034176949069, guid: 2a2bcae12a38af74faf21d547c5b75eb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.64
+      objectReference: {fileID: 0}
+    - target: {fileID: 1762177219004142943, guid: 2a2bcae12a38af74faf21d547c5b75eb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.28
+      objectReference: {fileID: 0}
+    - target: {fileID: 4036934321102210087, guid: 2a2bcae12a38af74faf21d547c5b75eb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4115600604299057511, guid: 2a2bcae12a38af74faf21d547c5b75eb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.29
+      objectReference: {fileID: 0}
     - target: {fileID: 4330214970614006079, guid: 2a2bcae12a38af74faf21d547c5b75eb, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -1662,6 +1686,10 @@ PrefabInstance:
     - target: {fileID: 5349909745205221381, guid: 2a2bcae12a38af74faf21d547c5b75eb, type: 3}
       propertyPath: m_Name
       value: 'Segment '
+      objectReference: {fileID: 0}
+    - target: {fileID: 5828860935772675567, guid: 2a2bcae12a38af74faf21d547c5b75eb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.97
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -1778,7 +1806,9 @@ PrefabInstance:
       value: 'Segment '
       objectReference: {fileID: 0}
     m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedGameObjects:
+    - {fileID: 333736751266437418, guid: 9ac2da34985aaf84b8bd0802421017c5, type: 3}
+    - {fileID: 667938884875236475, guid: 9ac2da34985aaf84b8bd0802421017c5, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9ac2da34985aaf84b8bd0802421017c5, type: 3}
